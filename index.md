@@ -14,3 +14,9 @@ layout: default
 - Stargzr: [mezumona](https://stargzr.net/users/mezumona)
 - Twitter: [mezumona](https://twitter.com/mezumona)
 
+## blog
+[全ての記事はこっちから。](blog)
+### 最新の 5 件
+{% for post in site.posts limit:5 %}
+- [{{ post.date | date_to_string }} : {{ post.title }}]({{ post.url }})
+{% endfor %}
