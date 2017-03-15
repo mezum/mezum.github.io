@@ -3,3 +3,7 @@ markdown: kramdown
 title: Mezumona Kosaki
 description: Mezumona Kosaki pages.
 show_downloads: false
+gems:
+    - jekyll-mentions
+    - jekyll-sitemap
+    - jemoji
