@@ -14,6 +14,9 @@ layout: default
 - Stargzr: [mezumona](https://stargzr.net/users/mezumona)
 - Twitter: [mezumona](https://twitter.com/mezumona)
 
+## Novels
+- [音の色](novels/tonecolor)
+
 ## blog
 [全ての記事はこっちから。](blog)
 ### 最新の 5 件
