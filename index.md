@@ -12,7 +12,8 @@ layout: default
 - GitHub: @mezum
 - Qiita: [mezumona](http://qiita.com/mezumona)
 - Stargzr: [mezumona](https://stargzr.net/users/mezumona)
-- Twitter: [mezumona](https://twitter.com/mezumona)
+- Twitter: [@mezumona](https://twitter.com/mezumona)
+- SoundCloud: [mezum](https://soundcloud.com/mezum)
 
 ## Novels
 - [音の色](novels/tonecolor)
